@@ -1,0 +1,5 @@
+# Ignore bazel generated outputs, symlinks, etc
+/bazel*
+/output
+
+/.vscode
